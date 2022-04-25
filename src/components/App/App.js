@@ -1,4 +1,4 @@
-import logo from '../../../../BookStore/frontend/src/logo.svg';
+import logo from '../../../src/logo.svg'
 import './App.css';
 import {Component} from "react";
 import bookStoreService from "../../repository/bookStoreRepo";

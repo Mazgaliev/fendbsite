@@ -1,4 +1,4 @@
-import axios from '../../../BookStore/frontend/src/custom-axios/axios-js'
+import axios from '../../../bstorefend/src/custom-axios/axios-js'
 
 const bookStoreService = {
     fetchAuthors: () => {
